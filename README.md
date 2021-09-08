@@ -36,7 +36,7 @@
 5. Escreva uma função que retorne a `n`-ésima letra do alfabeto.
     * Exemplo \#1: `n = 1` Saída: `a`
     * Exemplo \#2: `n = 26` Saída: `z`
-    * Dica: [Tabel ASCII](https://pt.wikipedia.org/wiki/ASCII)
+    * Dica: [Tabela ASCII](https://pt.wikipedia.org/wiki/ASCII)
 6. Escreva uma função que preenche uma matriz 5x5: o triângulo inferior de 1s, e o triângulo superior de zeros.
     Saída do programa:
     ```
