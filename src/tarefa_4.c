@@ -33,7 +33,7 @@ int main() {
     tarefa_4(7, 0, &vec[0]);
     for(int i = 0; i < N_POS; i++) {
         if(vec[i] != res_7[i]) {
-            printf("Incorreto: 6*%d + 0 = %d, e nao %d\n", i + 1, res_7[i], vec[i]);
+            printf("Incorreto: 7*%d + 0 = %d, e nao %d\n", i + 1, res_7[i], vec[i]);
             failure = true;
         }
     }
